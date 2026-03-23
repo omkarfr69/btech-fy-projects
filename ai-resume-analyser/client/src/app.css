@@ -1,0 +1,6 @@
+/* App.css — Component-specific styles for App.jsx */
+
+.btn-sm {
+  padding: 7px 14px;
+  font-size: 13px;
+}
